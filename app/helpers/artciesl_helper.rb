@@ -1,0 +1,2 @@
+module ArtcieslHelper
+end
