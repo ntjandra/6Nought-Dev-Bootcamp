@@ -1,0 +1,10 @@
+CREATE TABLE managers(
+	ID			INT
+	NAME        TEXT
+	DEPARTMENT  TEXT
+);
+CREATE TABLE employees {
+	ID			INT
+	NAME		TEXT
+	TITLE		TEXT
+};
